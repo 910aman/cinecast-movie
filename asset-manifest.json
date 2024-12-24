@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cinecast_movie/static/css/main.9ebec990.css",
+    "main.js": "/cinecast_movie/static/js/main.61e6c791.js",
+    "static/js/453.ca28609e.chunk.js": "/cinecast_movie/static/js/453.ca28609e.chunk.js",
+    "index.html": "/cinecast_movie/index.html",
+    "main.9ebec990.css.map": "/cinecast_movie/static/css/main.9ebec990.css.map",
+    "main.61e6c791.js.map": "/cinecast_movie/static/js/main.61e6c791.js.map",
+    "453.ca28609e.chunk.js.map": "/cinecast_movie/static/js/453.ca28609e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ebec990.css",
+    "static/js/main.61e6c791.js"
+  ]
+}
